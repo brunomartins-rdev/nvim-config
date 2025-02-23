@@ -2,6 +2,7 @@
 I'm a Data Scientist from Portugal who mostly deals with R package creation and Shiny Apps, but I also do some web development for fun. This is my NeoVim setup, structured for efficiency and ease of use.  
 
 ## 📂 **Project Structure**
+```bash
 .
 ├── README.md
 ├── init.lua
@@ -26,6 +27,7 @@ I'm a Data Scientist from Portugal who mostly deals with R package creation and 
         ├── telescope.lua
         ├── todo-comments.lua
         └── toggleterm.lua
+```
 
 ## 🔌 **Installed Plugins**
 - **lazy.nvim** – Plugin manager  
