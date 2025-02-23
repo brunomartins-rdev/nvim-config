@@ -1,7 +1,7 @@
 # My NeoVim Config  
 I'm a Data Scientist from Portugal who mostly deals with R package creation and Shiny Apps, but I also do some web development for fun. This is my NeoVim setup, structured for efficiency and ease of use.  
 
-## 📂 **Project Structure**
+## **Project Structure**
 ```bash
 .
 ├── README.md
@@ -29,7 +29,7 @@ I'm a Data Scientist from Portugal who mostly deals with R package creation and 
         └── toggleterm.lua
 ```
 
-## 🔌 **Installed Plugins**
+## **Installed Plugins**
 - **lazy.nvim** – Plugin manager  
 - **catppuccin** – Color scheme  
 - **nvim-lspconfig** – LSP support  
@@ -49,7 +49,7 @@ I'm a Data Scientist from Portugal who mostly deals with R package creation and 
 ## Still to be installed
 - **nvim-r** - R integration
 
-## ⚙️ **Installation**
+## **Installation**
 ### **Clone the Repository**
 ```sh
 git clone https://github.com/brunomartins-rdev/nvim-config ~/.config/nvim
