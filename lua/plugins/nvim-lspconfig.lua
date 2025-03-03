@@ -19,6 +19,7 @@ return {
     lspconfig.html.setup({})
     lspconfig.lua_ls.setup({})
     lspconfig.ts_ls.setup({})
+    lspconfig.gopls.setup({})
 
   end,
 }
