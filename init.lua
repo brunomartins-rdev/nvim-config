@@ -51,6 +51,5 @@ vim.opt.formatoptions:append({'r'})
 -- Load plugins
 require('config.lazy')
 
-
-
+vim.api.nvim_set_option("clipboard","unnamed") 
 
