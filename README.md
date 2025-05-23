@@ -10,7 +10,7 @@ Minimal Neovim setup with LSP, autocompletion, file tree and fuzzy finder
 - Syntax: `treesitter`, `autotag`, `autopairs`, `prettier`
 - Extras: `todo-comments`
 
-## 🚀 Setup
+## Setup
 
 ```bash
 git clone https://github.com/yourusername/nvim-config.git ~/.config/nvim
